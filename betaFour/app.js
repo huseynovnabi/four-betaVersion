@@ -26,4 +26,4 @@ function writeText() {
     }
 }
 
-writeText(); // İlk olarak metni yazmaya başla
+writeText(); 
